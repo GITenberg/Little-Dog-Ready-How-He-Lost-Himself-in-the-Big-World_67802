@@ -7,12 +7,17 @@ contributor:
     deathdate: 1975
     gutenberg_agent_id: '33428'
     url: http://www.gutenberg.org/2009/agents/33428
+covers:
+- cover_type: archival
+  image_path: 67802-h/images/cover.jpg
 creator:
   author:
     agent_name: Stryker, Mabel F.
     gutenberg_agent_id: '54467'
     url: http://www.gutenberg.org/2009/agents/54467
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67802#Little-Dog-Ready-How-He-Lost-Himself-in-the-Big-World
 gutenberg_issued: '2022-04-09'
 identifiers:
   gutenberg: '67802'
